@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Full monitoring data — third-party, do NOT commit
+data/input/*.xlsx
+data/input/*.csv
+data/processed/
+
+# Runtime outputs
+outputs/
